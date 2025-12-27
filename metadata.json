@@ -1,0 +1,7 @@
+{
+  "name": "Little Phonics Explorer",
+  "description": "A playful, interactive phonics learning web application for children aged 3-8. Features single letters, digraphs, and IPA symbols with high-quality AI-generated pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
